@@ -11,13 +11,13 @@
 
 .header h1 {
     text-align: center;
-    color: #0150b8;
+    color: black;
     font-weight: 600;
     margin-top: 2rem;
 }
 
 .img-barcode h4 {
-    color: #0150b8;
+    color: black;
     font-size: 12px;
     font-weight: 600;
 }
